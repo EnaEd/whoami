@@ -1,0 +1,30 @@
+.terminal-command {
+    color: #2ed17b;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.terminal-line {
+    display: block;
+    color: #8fa095;
+    margin-bottom: 4px;
+}
+
+.terminal-label {
+    color: #2ed17b;
+}
+
+.terminal-value {
+    color: #ffffff;
+}
+
+/* Кастомный мигающий курсор для красоты */
+.terminal-cursor {
+    color: #2ed17b;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
