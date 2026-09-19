@@ -12,7 +12,6 @@ export const Info = () => {
                 Specializing in building high-load, fault-tolerant backend systems.
                 I design clean architecture, develop RESTful/gRPC APIs, and optimize database performance.
                 My focus is on delivering high performance, scalability, and secure code within the Microsoft .NET ecosystem.
-                производительности, масштабируемости и безопасности кода с использованием экосистемы Microsoft .NET.
             </p>
 
             <div className="buttons-group">
